@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HenriLouw
 - 👀 I’m interested in python projects
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on NFT projects 
+- 💞️ I’m curretly working on a NFT Project 
 - 📫 How to reach me: You can shoot me a DM on twitter (@MrT1TAN) or Discord (MrT1TAN#3244) 
 
 <!---
