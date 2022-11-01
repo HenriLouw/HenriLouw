@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **NFT Project**
 
-- 🌱 I’m currently learning **Flaks, React**
+- 🌱 I’m currently learning **FlasK, React**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
