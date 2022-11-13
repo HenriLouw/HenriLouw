@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **henrilouw0911@gmail.com**
 
-- ⚡ My Hobbies are **Gym, Gaming, Hiking**
+- ⚡ My Hobbies are **Gym, Gaming, Hiking, Pickleball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
