@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Loadshedding Time Calculator**
 
-- 🌱 I’m currently learning **Typescript, React**
+- 🌱 I’m currently learning **Typescript, React and Framer**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **henrilouw0911@gmail.com**
 
-- ⚡ My Hobbies are **Gym, Gaming, Hiking, Pickleball**
+- ⚡ My Hobbies are **Gym, Gaming, Hiking, Pickle ball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
