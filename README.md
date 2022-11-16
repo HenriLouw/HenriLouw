@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, JavaScript, CSS, Tailwind, Lottie**
 
-- 📫 How to reach me **henrilouw0911@gmail.com**
+- 📫 How to reach me **henrilouw0911@gmail.com** or Discord: MrT1TAN#3244
 
 - ⚡ My Hobbies are **Gym, Gaming, Hiking, Pickle ball**
 
