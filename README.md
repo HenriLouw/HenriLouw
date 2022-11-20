@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on a **Loadshedding Time Calculator**
 
-- 🌱 I’m currently learning **Typescript, React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
