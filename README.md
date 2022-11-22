@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriLouw](https://github.com/HenriLouw)
 
-- 💬 Ask me about **Python, JavaScript, CSS, Tailwind, Lottie**
+- 💬 Ask me about **Python, JavaScript, CSS, Tailwind**
 
 - 📫 How to reach me **henrilouw0911@gmail.com** or Discord: **MrT1TAN#3244**
 
