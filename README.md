@@ -5,7 +5,7 @@
 
 - 🎓 **Bachelor of Science in Information Technology (Software Engineering)**
  
-- 🔭 I’m currently working on a **Loadshedding Time Calculator**
+- 🔭 I’m currently working on a **Loadshedding Schedular with Milahn Martin**
 
 - 🌱 I’m currently learning **React**
 
