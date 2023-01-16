@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a **Loadshedding Schedular with Milahn Martin**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
