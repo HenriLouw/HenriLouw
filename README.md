@@ -3,9 +3,9 @@
 <h3 align="center">BSc IT (Software Engineering) Honours student</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🎓 **Bachelor of Science in Information Technology (Software Engineering)**
+- 🎓 **Bachelor of Science Honours in Information Technology (Software Engineering)**
 
-- 🎓 I'm currently doing my **Honours Degree in BSc IT**
+- 🎓 **Bachelor of Science in Information Technology (Software Engineering)**
 
 - 🔭 I’m currently working on a **Loadshedding Schedular with Milahn Martin**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HenriLouw](https://github.com/HenriLouw)
 
-- 💬 Ask me about **Python, JavaScript, HTML, Tailwind**
+- 💬 Ask me about **Vue.js, JavaScript, HTML, Tailwind, Raect.js**
 
 - 📫 How to reach me **henrilouw0911@gmail.com** or Discord: **MrT1TAN#3244**
 
-- ⚡ My Hobbies are **Gym, Gaming, Hiking, Pickle ball**
+- ⚡ My Hobbies are **Gym, Gaming, Hiking, Padel Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
